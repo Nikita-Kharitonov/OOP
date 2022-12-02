@@ -1,0 +1,8 @@
+bin/
+
+obj/
+
+.gitignore/
+
+GB_home.csproj/
+
